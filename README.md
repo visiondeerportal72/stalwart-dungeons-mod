@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Minecraft-Minecraft%201.16.5%20--%201.21.x-62B47A?style=for-the-badge&logo=minecraft&logoColor=white" />
-  <img src="https://img.shields.io/badge/Loader-Forge%20%2F%20NeoForge%20%2F%20Fabric-ED8106?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Loader-Forge%20%2F%20Forge-ED8106?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Downloads-50K%2B-blue?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" />
 </p>
@@ -45,7 +45,7 @@
 ### Windows
 
 1. Download the correct version for your Minecraft above
-2. Install [Forge](https://files.minecraftforge.net/) / [Fabric](https://fabricmc.net/use/) / [NeoForge](https://neoforged.net/) matching your MC version
+2. Install [Forge](https://files.minecraftforge.net/) / [Fabric](https://fabricmc.net/use/) / [Forge](https://neoforged.net/) matching your MC version
 3. Drop the `.jar` file into your `.minecraft/mods/` folder
 4. Launch Minecraft with the correct mod loader profile
 5. The mod activates automatically — no extra configuration
@@ -64,7 +64,7 @@
 |-----------|---------|
 | Minecraft (Legacy) | 1.16.5 – 1.17.1 |
 | Minecraft (Modern) | 1.18.2 – 1.21.x |
-| Mod Loader | Forge / NeoForge / Fabric |
+| Mod Loader | Forge |
 | Java | 17+ (Java 8 for 1.16.x) |
 
 ---
